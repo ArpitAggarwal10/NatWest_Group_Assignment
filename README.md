@@ -29,7 +29,7 @@ This is a Spring Boot application that ingests CSV files and generates reports b
 ### Installation
 1. Clone the repository :
    ```bash
-   git clone <https://github.com/ArpitAggarwal10/NatWest_Group_Assignment.git>
+   git clone https://github.com/ArpitAggarwal10/NatWest_Group_Assignment.git
 2. Navigate to the project directory :
     ```bash
    cd reportgenerator
